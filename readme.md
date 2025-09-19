@@ -1,6 +1,7 @@
 # 💳 Credit Card Classification
 
 **Project File: https://colab.research.google.com/drive/13DOJCDslfcL0n_dKrw_YbMTUdBRJe2gR?usp=sharing**
+Note: The datasets have been acquired from kaggle.com and have been uploaded in this repo.
 
 This project implements a **classification model using Logistic Regression** to determine whether a user is eligible for a credit card.  
 The model leverages the following features:  
