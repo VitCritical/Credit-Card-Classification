@@ -17,8 +17,7 @@ The model leverages the following features:
 
 - `Credit_card.csv` → Raw dataset containing user details  
 - `Credit_card_label.csv` → Labels indicating credit card eligibility  
-- `Credit_Card_Classification1.ipynb` → Jupyter Notebook with full workflow (data preprocessing, model training, evaluation)  
-- `README.md` → Project documentation  
+- `README.md` → Project documentation and link to Jupyter Notebook with complete ML workflow (data preprocessing, model training, evaluation)  
 
 ---
 
